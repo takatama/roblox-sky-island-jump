@@ -1,0 +1,17 @@
+{
+  "name": "roblox-sky-island-jump",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts"
+      }
+    }
+  }
+}
